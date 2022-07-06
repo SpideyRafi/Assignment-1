@@ -1,0 +1,90 @@
+body {
+    color: antiquewhite;
+    text-decoration: black;
+    text-shadow: 100px;
+    font-size: 200%;
+    text-align: center;
+    font-family: 'Amaranth', sans-serif;
+    background-image: url(Damagedcity.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.color {
+    color: aquamarine;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(aqua, blueviolet);
+    padding: 10px 40px;
+    color: antiquewhite;
+    border-radius: 15px;
+    margin-top: 100px;
+}
+
+.DC {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-top: 1px;
+    box-shadow: 10px 10px 45px aqua;
+    border-radius: 25px;
+}
+
+.flex-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+h3 {
+    color: aquamarine;
+}
+
+.block-width {
+    width: 33%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 45px aqua;
+    border-radius: 25px;
+}
+
+.avengers {
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    box-shadow: 10px 10px 45px aqua;
+    border-radius: 25px;
+}
+
+.block2 {
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    box-shadow: 10px 10px 45px aqua;
+    border-radius: 25px;
+}
+
+.footer {
+    color: aquamarine;
+}
+
+footer {
+    background-color: black;
+    color: antiquewhite;
+}
